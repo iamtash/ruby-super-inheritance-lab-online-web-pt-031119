@@ -3,7 +3,7 @@ class Student
   def hello
   end
 
-  def raise_hand 
+  def raise_hand
   end
 
 end
